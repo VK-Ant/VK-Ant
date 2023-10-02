@@ -19,7 +19,7 @@ Feel free to reach out to me. Together, let's innovate and advance the world of 
 <a href="https://twitter.com/VK_VENKATKUMAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VK" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/venkatkumarvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VK" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC09Wb7l09RpFxxODPG-CnKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VK" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/venkatkumar001" target="blank"><img align="center" src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/media/kaggle-transparent.svg" alt="VK" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/venkatkumar001" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EWhyL7bVZZIJJAGgv0pg5jm4uuhbol3nAr2S4qJ15fKQpL_aqByorA_AA0_hftFBfng&usqp=CAU" alt="VK" height="30" width="40" /></a>
 <a href="https://medium.com/@VK_Venkatkumar" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="VK" height="30" width="40" /></a>
 </p>
 
