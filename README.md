@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkatkumar (🌟VK🌟).</h1>
+<h1 align="center">🌟Hi 👋, I'm Venkatkumar (VK).🌟</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
 - I'm fascinated by AI, 2D & 3D Computer vision, NLP, TinyML, and BCI
