@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nico</h1>
+<h1 align="center">Hi 👋, I'm VK</h1>
 <h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 26k+ People Build ML Pipelines and Computer Vision Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
 
-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
-
 - 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
 
-- 📫 Business inquiries **thecodinglibraryyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niconielsen32&show_icons=true&theme=dark&locale=en" alt="niconielsen32" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niconielsen32&theme=dark" alt="niconielsen32" /></p>
