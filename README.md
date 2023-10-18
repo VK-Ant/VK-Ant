@@ -23,7 +23,7 @@ Feel free to reach out to me. Together, let's innovate and advance the world of 
 <a href="https://www.youtube.com/channel/UC09Wb7l09RpFxxODPG-CnKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VK" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/venkatkumar001" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-512x512-ubnqei0x.png" alt="VK" height="30" width="40" /></a>
 <a href="https://medium.com/@VK_Venkatkumar" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="VK" height="30" width="40" /></a>
-<a href="https://drive.google.com/file/d/12QG_P26gwhut8jwEVZ0a56o2_uZdBAHb/view?usp=sharing" target="blank"><img align="center" src="https://st.depositphotos.com/5943796/59574/v/450/depositphotos_595742610-stock-illustration-initial-letters-overlapping-fold-logo.jpg" alt="Resume" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1Q1rw6aC0saBboyNHonVVaPsIwlwJDLnJ/view?usp=sharing" target="blank"><img align="center" src="https://st.depositphotos.com/5943796/59574/v/450/depositphotos_595742610-stock-illustration-initial-letters-overlapping-fold-logo.jpg" alt="Resume" height="30" width="40" /></a>
 </p>
 
 
