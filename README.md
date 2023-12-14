@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks 👋, I'm Venkatkumar (VK).🌐</h1>
-<h3 align="center">Generative AI DEV</h3>
+<h3 align="center">GENERATIVE AI DEV</h3>
 
 - I'm fascinated by AI, 2D & 3D Computer vision, NLP, TinyML, and BCI
 
