@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks 👋, I'm Venkatkumar (VK).🌐</h1>
 <h3 align="center">GENERATIVE AI DEV</h3>
 
-- I'm fascinated by AI, 2D & 3D Computer vision, NLP, TinyML, and BCI
+- I'm fascinated by AI, 2D & 3D Computer vision, NLP, Time series, Audio,TinyML, and BCI
 
 - As a GenerativeAI Dev with extensive experience in 2D/3D computer vision, ML, and DL, I've had the privilege to work on cutting-edge technologies like Nvidia AGX and Raspberry Pi, and I'm a certified Jetson AI specialist & TensorFlow Developer.🌟
 
