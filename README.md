@@ -1,17 +1,15 @@
 <h1 align="center">Hi folks 👋, I'm Venkatkumar (VK).🌐</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Generative AI DEV</h3>
 
 - I'm fascinated by AI, 2D & 3D Computer vision, NLP, TinyML, and BCI
 
-- As a Machine Learning Engineer with extensive experience in 2D/3D computer vision, ML, and DL, I've had the privilege to work on cutting-edge technologies like Nvidia AGX and Raspberry Pi, and I'm a certified Jetson AI specialist.🌟
+- As a GenerativeAI Dev with extensive experience in 2D/3D computer vision, ML, and DL, I've had the privilege to work on cutting-edge technologies like Nvidia AGX and Raspberry Pi, and I'm a certified Jetson AI specialist & TensorFlow Developer.🌟
 
-- I've also been an active member of the Kaggle community, achieving Kaggle 1️⃣× Master (Notebook), Kaggle 2️⃣× Expert (Discussion and Dataset), and Kaggle 1️⃣× Contributor (Competition) . 🏆
+- I've also been an active member of the Kaggle community, achieving Kaggle 1️⃣× Master (Notebook), Kaggle 2️⃣× Expert (Discussion and Dataset), and Kaggle 1️⃣× Contributor (Competition). 🏆
 
 - Currently pursuing an M.Tech. in AI/ML at BITS Pilani, I'm passionate about AI, TinyML, and BCI, and I'm eager to contribute my skills to a dynamic team and exciting projects.
 
-- 🌐 Any one come and talk with me related of AI, 2D & 3D computervision, NLP, TinyML, Jetson Devices...  🤝
-
-If you're looking for someone with a strong foundation in AI, computer vision, and a drive to push the boundaries of technology, let's connect! 🤝
+- 🌐 Anyone come and talk with me related AI, 2D & 3D computer vision, NLP, Time Series TinyML, and Jetson Devices...  🤝
 
 Feel free to reach out to me. Together, let's innovate and advance the world of AI! 🌐
 
