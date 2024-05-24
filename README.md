@@ -3,7 +3,7 @@
 
 - I'm fascinated by AI (ML, DL,RL), 2D & 3D Computer vision, NLP, Time series, Audio, TinyML, and BCI
 
-- As a GenerativeAI Dev with extensive experience in 2D/3D computer vision, ML, and DL, I've had the privilege to work on cutting-edge technologies like Nvidia AGX and Raspberry Pi, and I'm a certified Jetson AI specialist & TensorFlow Developer.🌟
+- As a GenerativeAI Dev with extensive experience in 2D/3D computer vision, ML, and DL, I've had the privilege to work on cutting-edge technologies like Nvidia AGX and Raspberry Pi, and I'm a certified Jetson AI specialist, Azure:AI900 Fundamental & TensorFlow Developer.🌟
 
 - I've also been an active member of the Kaggle community, achieving Kaggle 1️⃣× Master (Notebook), Kaggle 2️⃣× Expert (Discussion and Dataset), and Kaggle 1️⃣× Contributor (Competition). 🏆
 
