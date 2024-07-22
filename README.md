@@ -5,7 +5,7 @@
 
 - As a GenerativeAI Dev with extensive experience in 2D/3D computer vision, ML, and DL, I've had the privilege to work on cutting-edge technologies like Nvidia AGX and Raspberry Pi, and I'm a certified Jetson AI specialist, Azure:AI900 Fundamental & TensorFlow Developer.🌟
 
-- I've also been an active member of the Kaggle community, achieving Kaggle 1️⃣× Master (Notebook), Kaggle 2️⃣× Expert (Discussion and Dataset), and Kaggle 1️⃣× Contributor (Competition). 🏆
+- I've also been an active member of the Kaggle community, achieving Kaggle 1 x Master (Notebook), Kaggle 2️3 × Expert (Competition, Discussion and Dataset). 🏆
 
 - Currently pursuing an M.Tech. in AI/ML at BITS Pilani, I'm passionate about AI, TinyML, and BCI, and I'm eager to contribute my skills to a dynamic team and exciting projects.
 
