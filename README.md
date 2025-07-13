@@ -1,6 +1,7 @@
 <h1 align="center">Hi folks 👋, I'm Venkatkumar (VK).🌐</h1>
-<h3 align="center">Impact-Driven Engineer</h3>
 <h3 align="center">✨ Committed to Empowering Others Through My Expertise and Support.</h3>
+<h3 align="center">Impact-Driven Engineer</h3>
+
 
 - Hi folks, I’m an AI Engineer passionate about building intelligent solutions that blend research, real-world deployment, and innovation. My work spans across Generative AI, Computer Vision, Natural Language Processing, and end-to-end AI pipelines from designing algorithms to deploying production-ready systems.
 
