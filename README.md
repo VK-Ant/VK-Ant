@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks 👋, I'm Venkatkumar (VK).🌐</h1>
-<h3 align="center">✨ Committed to Empowering Others Through My Expertise and Support.</h3>
+<h3 align="center">✨ Committed to Empowering Others Through My Expertise and Support ✨</h3>
 <h3 align="center">Impact-Driven Engineer</h3>
 
 
