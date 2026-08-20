@@ -1,16 +1,21 @@
-<h1 align="center">Hi folks 👋, I'm Venkatkumar (VK)</h1>
-<h3 align="center">✨ Committed to Empowering Others Through My Expertise and Support ✨</h3>
-<h3 align="center">Impact-Driven Engineer</h3>
+<h1 align="center">Venkatkumar Rajan (VK-Ant)</h1> <h3 align="center">Computer Vision, Spatial Intelligence & Retrieval System Engineer | Open Source Builder</h3>
 
+<p>AI Engineer and Kaggle Master building production-ready AI systems that transform complex data into real-world applications.</p> <p>Over the past 4+ years, I have designed and deployed AI solutions across healthcare, manufacturing, and finance, with expertise in computer vision, spatial intelligence, retrieval systems, and generative AI.</p>
 
-- I’m an AI Engineer driving innovation at the intersection of research and real-world deployment. My expertise spans Generative AI (LLMs), Agentic AI workflows, Computer Vision, NLP, and end-to-end AI pipelines from algorithm design to production-ready systems.
+<h2 align="center">Ant Intelligence Ecosystem</h2> <p align="center">Open-source Python libraries: pluggable, production-ready AI building blocks.</p> <table align="center"> <tr><th>Library</th><th>What it does</th><th>Tagline</th></tr> <tr><td><a href="https://pypi.org/project/llmevalkit/">llmevalkit</a></td><td>LLM evaluation & scoring</td><td>Evaluate. Score. Improve.</td></tr> <tr><td><a href="https://pypi.org/project/adaptive-intelligence/">adaptive-intelligence</a></td><td>Adaptive RAG orchestration</td><td>Learn. Remember. Adapt.</td></tr> <tr><td><a href="https://pypi.org/project/SightRAG/">SightRAG</a></td><td>Visual perception & retrieval</td><td>See. Search. Retrieve.</td></tr> <tr><td><a href="https://pypi.org/project/sonarwise/">sonarwise</a></td><td>Audio perception & retrieval</td><td>Hear. Search. Retrieve.</td></tr> <tr><td><a href="https://pypi.org/project/docqwise/">docqwise</a></td><td>Document intelligence & retrieval</td><td>Read. Extract. Retrieve.</td></tr> <tr><td><a href="https://pypi.org/project/wavqwise/">wavqwise</a></td><td>Time-series forecasting & anomaly detection</td><td>Sense. Forecast. Alert.</td></tr> </table>
 
-- I’ve delivered AI solutions across healthcare, manufacturing, automotive, and finance, including real-time video analytics, 3D reconstruction with NeRF & photogrammetry, intelligent document automation with Azure AI, and time series forecasting for financial analysis and decision support. My hands-on experience covers cloud platforms (Azure, AWS), edge devices (Nvidia Jetson, Raspberry Pi), and AI frameworks.
+<h3>Credentials</h3>
 
-- With research publications (Arxiv, IEEE, IRJIET), Kaggle Master-level contributions, and certifications from NVIDIA Jetson AI Specialist, TensorFlow Developer, and Azure AI, I specialize in bridging deep research with applied business impact.
+- Kaggle Master: 100+ competitions
 
+- Published in IEEE and arXiv
 
-📂 **Explore my portfolio: https://vk-ant.github.io/Venkatkumar**
+- M.Tech in Artificial Intelligence, BITS Pilani
 
+- Certified: Google TensorFlow, NVIDIA Jetson AI, Microsoft Azure AI, Reinforcement Learning (University of Alberta)
 
-Let's connect to explore the exciting world of AI, foster innovation, and shape the future of artificial intelligence together! 🌐
+<h3>Connect</h3> 
+
+- https://vk-ant.github.io/Venkatkumar
+  
+- venkatkumarr.vk99@gmail.com
