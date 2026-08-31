@@ -4,6 +4,8 @@
 
 <h2 align="center">Ant Intelligence Ecosystem</h2>
 <p align="center">Open-source Python libraries: pluggable, production-ready AI building blocks.</p>
+<p align="center">AIE Documentation: https://vk-ant.github.io/ant-intelligence-ecosystem</p>
+
 <table align="center">
 <tr><th>Library</th><th>What it does</th><th>Tagline</th></tr>
 <tr><td><a href="https://pypi.org/project/llmevalkit/">llmevalkit</a></td><td>LLM evaluation & scoring</td><td>Evaluate. Score. Improve.</td></tr>
@@ -28,5 +30,7 @@
 <h3>Connect</h3> 
 
 - https://vk-ant.github.io/Venkatkumar
+
+- PYPI: https://pypi.org/user/Venkat_VK
   
 - venkatkumarr.vk99@gmail.com
