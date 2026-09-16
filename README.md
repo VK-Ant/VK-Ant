@@ -1,4 +1,4 @@
-<h1 align="center">Venkatkumar Rajan (VK-Ant)</h1> <h3 align="center">Computer Vision, Spatial Intelligence & Retrieval System Engineer | Open Source Builder</h3>
+<h1 align="center">Venkatkumar R</h1> <h3 align="center">Computer Vision, Spatial Intelligence & Retrieval System Engineer | Open Source Builder</h3>
 
 <p>AI Engineer and Kaggle Master building production-ready AI systems that transform complex data into real-world applications.</p> <p>Over the past 4+ years, I have designed and deployed AI solutions across healthcare, manufacturing, and finance, with expertise in computer vision, spatial intelligence, retrieval systems, and generative AI.</p>
 
@@ -18,7 +18,7 @@
 <tr><td><a href="https://pypi.org/project/antguard/">antguard</a></td><td>AI data privacy & system profiling</td><td>Guard. Detect. Protect.</td></tr>
 </table>
 
-<h3>Credentials</h3>
+<h3>Highlights</h3>
 
 - Kaggle Master: 100+ competitions
 
