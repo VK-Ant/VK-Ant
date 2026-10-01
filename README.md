@@ -1,6 +1,8 @@
-<h1 align="center">Venkatkumar R</h1> <h3 align="center">Computer Vision, Spatial Intelligence & Retrieval System Engineer | Open Source Builder</h3>
+<h1 align="center">Venkatkumar R</h1>
+<h3 align="center"> Applied AI Engineer | Open Source Builder</h3>
 
-<p>AI Engineer and Kaggle Master building production-ready AI systems that transform complex data into real-world applications.</p> <p>Over the past 4+ years, I have designed and deployed AI solutions across healthcare, manufacturing, and finance, with expertise in computer vision, spatial intelligence, retrieval systems, and generative AI.</p>
+<p>Applied AI Engineer building production-ready AI systems across computer vision, spatial intelligence, and retrieval systems.</p>
+<p>Designed and deployed AI solutions across healthcare, manufacturing, and finance. Currently focused on spatial intelligence and edge-first AI tooling.</p>
 
 <h2 align="center">Ant Intelligence Ecosystem</h2>
 <p align="center">Open-source Python libraries: pluggable, production-ready AI building blocks.</p>
