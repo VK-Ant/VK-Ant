@@ -42,4 +42,3 @@
 - GitHub: https://github.com/VK-Ant
 - PyPI: https://pypi.org/user/Venkat_VK/
 - Email: venkatkumarr.vk99@gmail.com
-```
