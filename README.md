@@ -6,9 +6,6 @@
 
 <h2 align="center">Arikizu OS</h2>
 <p align="center">Open-source, edge-first AI runtime for running vision, audio, document intelligence, local LLM reasoning, and sensor time-series on your own hardware.</p>
-<p align="center">
-  <a href="https://github.com/VK-Ant/arikizu">GitHub Repository</a>
-</p>
 
 <h2 align="center">Ant Intelligence Ecosystem</h2>
 <p align="center">Seven open-source Python libraries for building modular, production-ready AI systems.</p>
