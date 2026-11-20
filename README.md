@@ -1,7 +1,6 @@
 <h1 align="center">Venkatkumar R</h1>
 
-<p>Applied AI Engineer building production-ready AI systems across computer vision, spatial intelligence, and retrieval systems.</p>
-<p>Designed and deployed AI solutions across healthcare, manufacturing, and finance. Currently focused on spatial intelligence and edge-first AI tooling.</p>
+<p>Applied AI Engineer. I turn simple ideas into real, working systems, and share what I build as open-source so others can learn from it and put it to use.</p>
 
 ### Arikizui Lab
 
