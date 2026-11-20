@@ -1,16 +1,24 @@
 <h1 align="center">Venkatkumar R</h1>
-<h3 align="center">Applied AI Engineer | Open Source Builder</h3>
 
 <p>Applied AI Engineer building production-ready AI systems across computer vision, spatial intelligence, and retrieval systems.</p>
 <p>Designed and deployed AI solutions across healthcare, manufacturing, and finance. Currently focused on spatial intelligence and edge-first AI tooling.</p>
 
+<h2 align="center">Arikizui Lab</h2>
+<p align="center">Independent applied AI research and engineering initiative. Home of Arikizu OS, the Ant Intelligence Ecosystem, and spatial intelligence work.</p>
+<p align="center">
+  <a href="https://vk-ant.github.io/arikizui-lab/#landing">Arikizui Lab</a>
+</p>
+
 <h2 align="center">Arikizu OS</h2>
 <p align="center">Open-source, edge-first AI runtime for running vision, audio, document intelligence, local LLM reasoning, and sensor time-series on your own hardware.</p>
+<p align="center">
+  <a href="https://vk-ant.github.io/arikizui-lab/#home">Arikizu OS</a>
+</p>
 
 <h2 align="center">Ant Intelligence Ecosystem</h2>
 <p align="center">Seven open-source Python libraries for building modular, production-ready AI systems.</p>
 <p align="center">
-  <a href="https://vk-ant.github.io/ant-intelligence-ecosystem">Documentation</a>
+  <a href="https://vk-ant.github.io/arikizui-lab/#home">Documentation</a>
 </p>
 
 <table align="center">
@@ -36,6 +44,7 @@
 <h3>Connect</h3>
 
 - Portfolio: https://vk-ant.github.io/Venkatkumar
+- Arikizui Lab: https://vk-ant.github.io/arikizui-lab/#landing
 - GitHub: https://github.com/VK-Ant
 - PyPI: https://pypi.org/user/Venkat_VK/
 - Email: venkatkumarr.vk99@gmail.com
