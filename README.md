@@ -2,13 +2,17 @@
 
 <p>Applied AI Engineer. I turn simple ideas into real, working systems, and share what I build as open-source so others can learn from it and put it to use.</p>
 
+<div align="center">
+
 ### Arikizui Lab
 
 Independent applied AI research and engineering initiative. Home of Arikizu OS, the Ant Intelligence Ecosystem, and spatial intelligence work.
 
-- Arikizui Lab: https://vk-ant.github.io/arikizui-lab/#landing
-- Arikizu OS: https://vk-ant.github.io/arikizui-lab/#home
-- Ant Intelligence: https://vk-ant.github.io/arikizui-lab/#home
+Arikizui Lab: https://vk-ant.github.io/arikizui-lab/#landing <br>
+Arikizu OS: https://vk-ant.github.io/arikizui-lab/#home <br>
+Ant Intelligence: https://vk-ant.github.io/arikizui-lab/#home
+
+</div>
 
 <table align="center">
 <tr><th>Project</th><th>What it does</th><th>Tagline</th></tr>
