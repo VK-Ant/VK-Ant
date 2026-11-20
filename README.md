@@ -3,23 +3,13 @@
 <p>Applied AI Engineer building production-ready AI systems across computer vision, spatial intelligence, and retrieval systems.</p>
 <p>Designed and deployed AI solutions across healthcare, manufacturing, and finance. Currently focused on spatial intelligence and edge-first AI tooling.</p>
 
-<h2 align="center">Arikizui Lab</h2>
-<p align="center">Independent applied AI research and engineering initiative. Home of Arikizu OS, the Ant Intelligence Ecosystem, and spatial intelligence work.</p>
-<p align="center">
-  <a href="https://vk-ant.github.io/arikizui-lab/#landing">Arikizui Lab</a>
-</p>
+### Arikizui Lab
 
-<h2 align="center">Arikizu OS</h2>
-<p align="center">Open-source, edge-first AI runtime for running vision, audio, document intelligence, local LLM reasoning, and sensor time-series on your own hardware.</p>
-<p align="center">
-  <a href="https://vk-ant.github.io/arikizui-lab/#home">Arikizu OS</a>
-</p>
+Independent applied AI research and engineering initiative. Home of Arikizu OS, the Ant Intelligence Ecosystem, and spatial intelligence work.
 
-<h2 align="center">Ant Intelligence Ecosystem</h2>
-<p align="center">Seven open-source Python libraries for building modular, production-ready AI systems.</p>
-<p align="center">
-  <a href="https://vk-ant.github.io/arikizui-lab/#home">Documentation</a>
-</p>
+- Arikizui Lab: https://vk-ant.github.io/arikizui-lab/#landing
+- Arikizu OS: https://vk-ant.github.io/arikizui-lab/#home
+- Ant Intelligence: https://vk-ant.github.io/arikizui-lab/#home
 
 <table align="center">
 <tr><th>Project</th><th>What it does</th><th>Tagline</th></tr>
